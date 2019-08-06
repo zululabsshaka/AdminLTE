@@ -1,7 +1,7 @@
 {
-  "name": "almasaeed2010/adminlte",
-  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3",
-  "homepage": "https://adminlte.io/",
+  "name": "zululabsshaka/AdminLTE",
+  "description": "Zulu has forked the Admin LTE and you can install it by using th efollowing command: git clone https://github.com/zululabsshaka/zulu-adminlte.git",
+  "homepage": "https://github.com/zululabsshaka/AdminLTE",
   "type": "template",
   "keywords": [
     "css",
@@ -16,13 +16,13 @@
   ],
   "authors": [
     {
-      "name": "Abdullah Almsaeed",
-      "email": "abdullah@almsaeedstudio.com"
+      "name": "Shaka",
+      "email": "techsupport4@zululabs.com"
     }
   ],
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/almasaeed2010/AdminLTE/issues"
+    "issues": "https://github.com/zululabsshaka/AdminLTE"
   },
   "require": {
     "bower-asset/jquery": ">=1.9.0 <4.0.0"
